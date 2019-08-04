@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1563459388 source:e:\c programs\swap 2 variables\main.c
+	<stdio.h>
+	<stdlib.h>
+
